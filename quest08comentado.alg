@@ -17,9 +17,9 @@ inicio
       Dam <- M / 10
       dm <- M * 10
       cm <- M * 100
-      mm <- M * 100
+      mm <- M * 1000
 // Comandos de saída com valores das operações.
-      escreval (KM, "Km":13, dm, "dm")
+      escreval (KM, "Km":15, dm, "dm")
       escreval (Hm, "Hm":15, cm, "cm")
       escreva (Dam, "Dam":15, mm, "mm")
 fimalgoritmo

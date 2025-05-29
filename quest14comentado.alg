@@ -9,7 +9,7 @@ var
 inicio
 // Comandos de entrada e saída de dados.
 escreval ("-------------------------")
-escreval ("DEVDRIVER RENT A CAR LTDA")
+escreval ("SENAC MINAS RENT A CAR LTDA")
 escreval ("-------------------------")
 escreva ("Quantos quilômetros foram percorridos? ")
 leia (Km)

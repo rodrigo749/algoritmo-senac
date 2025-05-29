@@ -9,7 +9,7 @@ var
 inicio
 // Comandos de saída e entrada de dados
 escreval ("---------------------------")
-escreval ("Bem vindo a Loja DEVDRIVER!")
+escreval ("Bem vindo a Loja SENAC MINAS!")
 escreval ("---------------------------")
 escreval ("Temos cupons de 5% disponíveis.")
 escreva ("Qual valor da sua compra? R$ ")
