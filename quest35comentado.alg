@@ -11,8 +11,8 @@ algoritmo "quest35"
 //- Carros de luxo (aluguel de R$150 por dia)
 //- Até 200Km percorridos: R$0,30 por Km
 //- Acima de 200Km percorridos: R$0,25 por Km
-// Autor : Jefferson
-// Data : 20/01/2021
+// Autor : Rodrigo
+// Data : 02/01/2025
 // Lista de Exercícios do Curso Em Video - Prof: Gustavo Guanabara
 var
 //Declação de variáveis.
@@ -22,7 +22,7 @@ var
 inicio
 //Comandos de entrada e saída de dados.
 escreval ("***********************************************")
-escreval ("             DEVDRIVER RENT A CAR              ")
+escreval ("             DEVSENAC RENT A CAR              ")
 escreval ("***********************************************")
 escreval
 escreval ("Digite qual tipo de carro escolhido: ")
@@ -70,6 +70,6 @@ TotAlg <- AlDia + KmRod //Atribuição de variável da junção do aluguel por tipo d
 escreval (TpCar, " alugado por ", Dias, " dias e ", Km, "Km rodados.")
 escreval ("O preço a ser pago será de R$ ", TotAlg:5:2)
 escreval ("===============================================")
-escreva ("Muito Obrigado por escolher a DEVDRIVER!")
+escreva ("Muito Obrigado por escolher a DEVSENAC!")
 escreval
 fimalgoritmo
